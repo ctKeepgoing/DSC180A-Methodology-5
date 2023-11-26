@@ -10,5 +10,4 @@ Describe a potential investigation you would like to pursue for your Quarter 2 P
 What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
 What other techniques would you be interested in using in your project?
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
 

@@ -1,9 +1,12 @@
+---
+layout: default
+---
 
 # What is the most interesting topic covered in your domain this quarter?
 
-This quarter, we discuss several importance topics regarding the nature of healthcare dataset,
-the challenges of using machine learning techniques in healthcare, and important steps to do before
-handling a big data like MIMIC III.
+This quarter, we discuss several important topics regarding the nature of healthcare datasets,
+the challenges of using machine learning techniques in healthcare, and important steps to take before
+handling big data like MIMIC III.
 
 ## Describe a potential investigation you would like to pursue for your Quarter 2 Project
 

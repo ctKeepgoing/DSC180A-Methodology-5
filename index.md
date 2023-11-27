@@ -1,4 +1,8 @@
-# What is the most interesting topic covered in your domain this quarter?
+# Colin Tran - ctt005@ucsd.edu, 
+
+# A005 - Mentor: Professor Kyle Shannon
+
+## What is the most interesting topic covered in your domain this quarter?
 
 This quarter, we discuss several important topics regarding the nature of healthcare datasets,
 the challenges of using machine learning techniques in healthcare, and important steps to take before

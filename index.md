@@ -1,4 +1,6 @@
-# Colin Tran - ctt005@ucsd.edu, 
+# Task 2
+
+## Colin Tran - ctt005@ucsd.edu
 
 # A005 - Mentor: Professor Kyle Shannon
 

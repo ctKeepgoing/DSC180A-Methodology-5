@@ -1,6 +1,6 @@
 
 ---
-layout: default
+theme: jekyll-theme-THEME-NAME
 ---
 
 # What is the most interesting topic covered in your domain this quarter?

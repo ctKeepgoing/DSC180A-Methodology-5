@@ -1,8 +1,3 @@
-
----
-theme: jekyll-theme-THEME-NAME
----
-
 # What is the most interesting topic covered in your domain this quarter?
 
 This quarter, we discuss several important topics regarding the nature of healthcare datasets,
